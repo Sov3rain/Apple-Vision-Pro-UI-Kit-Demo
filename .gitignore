@@ -100,3 +100,6 @@ InitTestScene*.unity*
 
 # JetBrains Rider generated files
 .idea/
+
+# Visual Studio Code
+.vscode/
